@@ -1,6 +1,5 @@
 const path = require("path");
 const express = require("express");
-const { allowedNodeEnvironmentFlags } = require("process");
 
 const PORT = process.env.PORT || 3001;
 
